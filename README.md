@@ -7,6 +7,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a coffee dependent life form.
 ### 🛠 &nbsp;Tech Stack
+<div align="center">
 
 **Frameworks and Stack**
 
@@ -22,6 +23,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
+ 
+ </div>
 
 
 ### ⚙️ &nbsp;GitHub Analytics
