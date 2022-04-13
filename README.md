@@ -2,7 +2,7 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Rishabhco.Rishabhco)
 
 - 🔭 I’m currently learning Full Stack Web Development.
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently exploring GraphQl
 - 📫 Reach me here : rishabhagrawal2020@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a coffee dependent life form.
