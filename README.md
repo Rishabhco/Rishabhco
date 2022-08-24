@@ -12,10 +12,14 @@
 **Frameworks and Stack**
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![GraphQl](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&logo=graphql)
+![Apollo GraphQl](https://img.shields.io/badge/-Apollo%20Graphql-161e26?style=for-the-badge&logo=apollographql)
+![Reactjs](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![Nextjs](https://img.shields.io/badge/-Nextjs-161e26?style=for-the-badge&logo=next.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+![Tailwind.css](https://img.shields.io/badge/-Tailwindcss-black?style=for-the-badge&logo=Tailwindcss)
 
 **Languages**
 
