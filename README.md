@@ -2,7 +2,7 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Rishabhco.Rishabhco)
 
 - 🔭 I’m currently learning Full Stack Web Development.
-- 🌱 I’m currently exploring GraphQl
+- 🌱 I’m currently exploring Azure,Docker and divng into the world of cloud services
 - 📫 Reach me here : rishabhagrawal2020@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a coffee dependent life form.
@@ -20,6 +20,11 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 ![Tailwind.css](https://img.shields.io/badge/-Tailwindcss-black?style=for-the-badge&logo=Tailwindcss)
+![Docker](https://img.shields.io/badge/-Docker-384d54?style=for-the-badge&logo=docker)
+![Azure](https://img.shields.io/badge/-Azure-0080FF?style=for-the-badge&logo=microsoftazure)
+![AWS](https://img.shields.io/badge/-AWS-ff9900?style=for-the-badge&logo=amazonaws)
+![Netlify](https://img.shields.io/badge/-Netlify-0e1e25?style=for-the-badge&logo=netlify)
+![Heroku](https://img.shields.io/badge/-Heroku-6567a5?style=for-the-badge&logo=heroku)
 
 **Languages**
 
