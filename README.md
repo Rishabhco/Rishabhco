@@ -52,6 +52,6 @@
 </p>
 
 
-### Badges
+### 🏅 &nbsp;Badges
 
 [![@rishabhco's Holopin board](https://holopin.io/api/user/board?user=rishabhco)](https://holopin.io/@rishabhco)
