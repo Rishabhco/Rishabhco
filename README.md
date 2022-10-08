@@ -50,3 +50,8 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
    </a>
 </p>
+
+
+### Badges
+
+[![@rishabhco's Holopin board](https://holopin.io/api/user/board?user=rishabhco)](https://holopin.io/@rishabhco)
